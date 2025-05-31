@@ -20,7 +20,7 @@ This project contains two Python scripts that automate the extraction of Instagr
   - Bio  
   - Verified Status  
   - Privacy and Business Account Status  
-- Save all data to CSV
+- Save all data to CSV `instagram_matched_users_profile_info.csv` , `instagram_location_based_users_info.csv`
 
 ---
 
